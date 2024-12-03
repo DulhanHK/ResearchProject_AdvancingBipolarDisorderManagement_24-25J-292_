@@ -1,0 +1,501 @@
+Mood,Bipolar Stage,Recommended Activities,Suggestions,Duration (Minutes),Age,Gender
+Happy,Hypomania,Cooking,Practice gratitude,45,41,Female
+Irritable,Depression,Walking,Practice gratitude,25,51,Male
+Calm,Depression,Gardening,Maintain a routine,30,40,Male
+Irritable,Euthymia,Journaling,Reach out to a friend,20,54,Female
+Happy,Depression,Art Therapy,Maintain a routine,50,32,Male
+Anxious,Euthymia,Exercise,Focus on positives,50,23,Female
+Happy,Depression,Meditation,Take deep breaths,30,33,Female
+Calm,Depression,Meditation,Focus on positives,10,20,Male
+Irritable,Mania,Cooking,Practice gratitude,35,48,Male
+Calm,Mania,Journaling,Take deep breaths,30,48,Female
+Happy,Depression,Cooking,Practice gratitude,20,18,Female
+Anxious,Mania,Exercise,Practice gratitude,15,38,Male
+Irritable,Euthymia,Meditation,Maintain a routine,35,58,Female
+Anxious,Euthymia,Exercise,Take deep breaths,25,49,Male
+Happy,Depression,Journaling,Maintain a routine,25,50,Female
+Anxious,Hypomania,Walking,Reach out to a friend,40,31,Female
+Sad,Euthymia,Yoga,Focus on positives,20,38,Male
+Anxious,Euthymia,Exercise,Maintain a routine,35,60,Female
+Calm,Mania,Gardening,Focus on positives,35,57,Female
+Anxious,Hypomania,Yoga,Practice gratitude,5,21,Female
+Anxious,Depression,Walking,Practice gratitude,25,27,Female
+Calm,Mania,Journaling,Reach out to a friend,35,51,Male
+Sad,Euthymia,Walking,Focus on positives,10,57,Female
+Irritable,Hypomania,Cooking,Focus on positives,25,34,Female
+Irritable,Mania,Listening to Music,Focus on positives,20,22,Female
+Happy,Depression,Listening to Music,Avoid triggers,45,41,Female
+Sad,Depression,Journaling,Take deep breaths,55,49,Female
+Irritable,Mania,Journaling,Focus on positives,5,36,Female
+Anxious,Hypomania,Art Therapy,Avoid triggers,50,52,Female
+Calm,Depression,Listening to Music,Take deep breaths,10,60,Male
+Anxious,Depression,Yoga,Avoid triggers,15,24,Male
+Sad,Depression,Journaling,Take deep breaths,30,59,Male
+Sad,Depression,Meditation,Reach out to a friend,10,61,Male
+Irritable,Mania,Journaling,Practice gratitude,45,50,Male
+Irritable,Hypomania,Gardening,Maintain a routine,25,38,Male
+Sad,Hypomania,Gardening,Avoid triggers,20,29,Female
+Irritable,Mania,Art Therapy,Take deep breaths,15,52,Male
+Irritable,Euthymia,Cooking,Take deep breaths,10,47,Male
+Irritable,Mania,Yoga,Take deep breaths,40,50,Male
+Anxious,Hypomania,Gardening,Practice gratitude,30,27,Male
+Calm,Euthymia,Meditation,Maintain a routine,30,38,Female
+Irritable,Hypomania,Gardening,Take deep breaths,50,63,Male
+Irritable,Hypomania,Art Therapy,Avoid triggers,20,61,Male
+Sad,Mania,Yoga,Practice gratitude,25,45,Male
+Sad,Mania,Walking,Focus on positives,20,37,Male
+Calm,Mania,Walking,Reach out to a friend,40,41,Male
+Calm,Euthymia,Exercise,Avoid triggers,35,59,Male
+Irritable,Depression,Listening to Music,Focus on positives,55,34,Male
+Calm,Depression,Exercise,Focus on positives,50,41,Female
+Happy,Euthymia,Listening to Music,Avoid triggers,25,42,Male
+Happy,Euthymia,Exercise,Maintain a routine,30,27,Female
+Calm,Mania,Journaling,Reach out to a friend,15,30,Female
+Calm,Hypomania,Yoga,Practice gratitude,35,37,Male
+Calm,Euthymia,Walking,Take deep breaths,50,15,Female
+Irritable,Euthymia,Gardening,Focus on positives,20,21,Male
+Sad,Mania,Meditation,Take deep breaths,10,55,Female
+Happy,Depression,Walking,Maintain a routine,50,52,Female
+Irritable,Euthymia,Gardening,Take deep breaths,15,45,Male
+Calm,Mania,Meditation,Take deep breaths,30,46,Male
+Sad,Depression,Walking,Avoid triggers,50,62,Male
+Happy,Depression,Journaling,Focus on positives,10,37,Female
+Happy,Euthymia,Listening to Music,Practice gratitude,55,62,Female
+Happy,Hypomania,Gardening,Practice gratitude,5,50,Female
+Irritable,Euthymia,Meditation,Maintain a routine,20,27,Male
+Anxious,Hypomania,Listening to Music,Practice gratitude,40,38,Female
+Sad,Euthymia,Yoga,Maintain a routine,25,23,Male
+Happy,Euthymia,Art Therapy,Practice gratitude,20,54,Male
+Calm,Depression,Exercise,Reach out to a friend,10,42,Female
+Calm,Euthymia,Art Therapy,Focus on positives,15,58,Female
+Sad,Hypomania,Yoga,Take deep breaths,55,55,Male
+Calm,Depression,Art Therapy,Avoid triggers,20,58,Female
+Calm,Depression,Gardening,Maintain a routine,5,19,Male
+Irritable,Euthymia,Exercise,Maintain a routine,40,27,Male
+Calm,Euthymia,Art Therapy,Take deep breaths,40,24,Male
+Happy,Hypomania,Gardening,Reach out to a friend,5,25,Female
+Calm,Depression,Listening to Music,Reach out to a friend,45,23,Male
+Happy,Euthymia,Exercise,Take deep breaths,40,27,Male
+Calm,Hypomania,Cooking,Practice gratitude,30,52,Female
+Irritable,Hypomania,Meditation,Maintain a routine,15,17,Male
+Irritable,Depression,Journaling,Focus on positives,25,16,Female
+Happy,Mania,Yoga,Reach out to a friend,15,53,Female
+Irritable,Depression,Art Therapy,Avoid triggers,50,18,Male
+Anxious,Euthymia,Gardening,Maintain a routine,50,44,Female
+Anxious,Depression,Listening to Music,Take deep breaths,15,49,Female
+Anxious,Mania,Yoga,Focus on positives,35,63,Male
+Irritable,Mania,Exercise,Take deep breaths,50,37,Male
+Calm,Hypomania,Meditation,Avoid triggers,5,34,Female
+Anxious,Hypomania,Meditation,Avoid triggers,40,57,Female
+Irritable,Mania,Meditation,Avoid triggers,40,42,Female
+Calm,Hypomania,Cooking,Focus on positives,15,26,Female
+Irritable,Euthymia,Listening to Music,Avoid triggers,5,40,Female
+Sad,Depression,Journaling,Practice gratitude,40,52,Male
+Calm,Depression,Journaling,Reach out to a friend,15,57,Male
+Calm,Mania,Cooking,Focus on positives,25,33,Male
+Calm,Euthymia,Listening to Music,Maintain a routine,30,44,Male
+Anxious,Hypomania,Cooking,Maintain a routine,50,15,Male
+Calm,Depression,Journaling,Practice gratitude,20,19,Female
+Calm,Hypomania,Yoga,Reach out to a friend,50,19,Female
+Sad,Depression,Exercise,Practice gratitude,35,44,Male
+Irritable,Mania,Yoga,Practice gratitude,45,49,Female
+Happy,Hypomania,Gardening,Reach out to a friend,10,64,Female
+Happy,Hypomania,Journaling,Practice gratitude,55,49,Male
+Irritable,Hypomania,Walking,Reach out to a friend,55,19,Female
+Anxious,Hypomania,Journaling,Reach out to a friend,30,50,Female
+Anxious,Hypomania,Listening to Music,Practice gratitude,55,52,Female
+Anxious,Euthymia,Cooking,Maintain a routine,35,37,Female
+Sad,Depression,Cooking,Take deep breaths,10,62,Male
+Irritable,Euthymia,Art Therapy,Maintain a routine,20,24,Female
+Anxious,Hypomania,Walking,Practice gratitude,45,45,Female
+Irritable,Mania,Journaling,Maintain a routine,40,28,Female
+Calm,Hypomania,Cooking,Avoid triggers,30,42,Female
+Anxious,Mania,Walking,Focus on positives,10,24,Female
+Calm,Euthymia,Listening to Music,Take deep breaths,10,30,Male
+Calm,Hypomania,Listening to Music,Reach out to a friend,55,43,Male
+Irritable,Euthymia,Walking,Focus on positives,10,59,Male
+Sad,Euthymia,Gardening,Focus on positives,50,32,Male
+Sad,Hypomania,Walking,Take deep breaths,5,31,Female
+Anxious,Mania,Exercise,Focus on positives,20,44,Male
+Sad,Mania,Meditation,Avoid triggers,40,17,Female
+Anxious,Euthymia,Exercise,Focus on positives,15,58,Male
+Irritable,Mania,Journaling,Maintain a routine,40,20,Male
+Irritable,Mania,Walking,Focus on positives,20,39,Female
+Calm,Depression,Art Therapy,Avoid triggers,40,43,Female
+Irritable,Mania,Meditation,Maintain a routine,20,50,Male
+Anxious,Euthymia,Walking,Avoid triggers,10,36,Female
+Anxious,Hypomania,Art Therapy,Practice gratitude,5,59,Female
+Irritable,Hypomania,Cooking,Focus on positives,45,37,Male
+Calm,Depression,Listening to Music,Focus on positives,20,52,Female
+Anxious,Mania,Gardening,Reach out to a friend,40,59,Female
+Irritable,Euthymia,Listening to Music,Focus on positives,25,17,Male
+Irritable,Mania,Exercise,Maintain a routine,15,38,Male
+Calm,Depression,Meditation,Avoid triggers,10,52,Male
+Happy,Hypomania,Journaling,Focus on positives,55,22,Male
+Happy,Depression,Cooking,Take deep breaths,30,34,Female
+Sad,Hypomania,Listening to Music,Maintain a routine,15,39,Female
+Irritable,Depression,Cooking,Maintain a routine,40,15,Female
+Calm,Euthymia,Yoga,Practice gratitude,30,53,Female
+Happy,Depression,Meditation,Reach out to a friend,30,38,Female
+Anxious,Euthymia,Gardening,Take deep breaths,15,22,Male
+Calm,Depression,Yoga,Take deep breaths,30,63,Male
+Sad,Hypomania,Cooking,Maintain a routine,40,42,Female
+Calm,Mania,Exercise,Focus on positives,50,45,Female
+Happy,Hypomania,Journaling,Take deep breaths,20,43,Female
+Happy,Euthymia,Journaling,Take deep breaths,30,59,Male
+Irritable,Mania,Yoga,Focus on positives,45,25,Female
+Happy,Euthymia,Gardening,Reach out to a friend,50,56,Female
+Happy,Mania,Meditation,Focus on positives,15,39,Male
+Sad,Hypomania,Art Therapy,Take deep breaths,5,40,Female
+Sad,Mania,Cooking,Reach out to a friend,20,35,Female
+Sad,Depression,Cooking,Take deep breaths,15,48,Male
+Irritable,Mania,Exercise,Avoid triggers,35,56,Male
+Happy,Depression,Art Therapy,Maintain a routine,50,44,Male
+Happy,Depression,Cooking,Take deep breaths,10,49,Male
+Sad,Depression,Cooking,Maintain a routine,20,50,Female
+Happy,Euthymia,Gardening,Practice gratitude,50,60,Female
+Anxious,Hypomania,Meditation,Reach out to a friend,5,24,Female
+Sad,Mania,Meditation,Maintain a routine,45,58,Female
+Sad,Euthymia,Listening to Music,Avoid triggers,55,23,Male
+Happy,Hypomania,Journaling,Take deep breaths,25,33,Male
+Happy,Mania,Cooking,Practice gratitude,50,17,Female
+Calm,Depression,Cooking,Maintain a routine,25,29,Female
+Anxious,Hypomania,Yoga,Practice gratitude,40,23,Female
+Anxious,Depression,Exercise,Practice gratitude,15,23,Female
+Irritable,Euthymia,Cooking,Reach out to a friend,40,42,Male
+Anxious,Euthymia,Journaling,Focus on positives,45,52,Male
+Irritable,Depression,Meditation,Practice gratitude,35,46,Male
+Irritable,Depression,Walking,Practice gratitude,50,34,Female
+Irritable,Depression,Listening to Music,Maintain a routine,35,60,Female
+Anxious,Mania,Cooking,Maintain a routine,20,39,Female
+Calm,Depression,Cooking,Take deep breaths,35,60,Male
+Anxious,Hypomania,Yoga,Take deep breaths,25,22,Female
+Anxious,Depression,Art Therapy,Reach out to a friend,15,22,Female
+Sad,Euthymia,Meditation,Practice gratitude,55,28,Male
+Irritable,Hypomania,Meditation,Reach out to a friend,55,28,Female
+Happy,Depression,Cooking,Focus on positives,30,48,Male
+Calm,Hypomania,Meditation,Focus on positives,45,34,Male
+Anxious,Depression,Cooking,Maintain a routine,5,48,Female
+Irritable,Hypomania,Yoga,Practice gratitude,20,59,Male
+Happy,Euthymia,Listening to Music,Avoid triggers,55,38,Female
+Sad,Depression,Exercise,Practice gratitude,25,37,Female
+Sad,Depression,Listening to Music,Take deep breaths,45,52,Male
+Sad,Depression,Exercise,Avoid triggers,35,64,Male
+Irritable,Euthymia,Listening to Music,Take deep breaths,55,52,Female
+Anxious,Depression,Gardening,Reach out to a friend,30,51,Female
+Sad,Hypomania,Listening to Music,Reach out to a friend,15,45,Male
+Anxious,Mania,Gardening,Reach out to a friend,55,19,Female
+Happy,Mania,Art Therapy,Avoid triggers,25,38,Female
+Happy,Mania,Exercise,Maintain a routine,55,25,Male
+Happy,Mania,Cooking,Focus on positives,50,19,Male
+Happy,Hypomania,Walking,Take deep breaths,40,21,Female
+Anxious,Euthymia,Journaling,Maintain a routine,50,47,Female
+Happy,Depression,Yoga,Reach out to a friend,45,52,Male
+Calm,Mania,Exercise,Take deep breaths,10,58,Female
+Sad,Depression,Exercise,Maintain a routine,10,45,Male
+Happy,Euthymia,Journaling,Practice gratitude,25,37,Female
+Anxious,Mania,Meditation,Take deep breaths,10,39,Male
+Irritable,Hypomania,Cooking,Avoid triggers,25,31,Female
+Anxious,Euthymia,Gardening,Take deep breaths,5,45,Female
+Happy,Depression,Cooking,Maintain a routine,40,31,Male
+Anxious,Mania,Walking,Avoid triggers,25,37,Male
+Calm,Hypomania,Gardening,Take deep breaths,30,49,Female
+Sad,Euthymia,Art Therapy,Reach out to a friend,35,16,Female
+Calm,Euthymia,Cooking,Reach out to a friend,35,33,Male
+Calm,Euthymia,Exercise,Focus on positives,45,63,Female
+Anxious,Depression,Art Therapy,Reach out to a friend,30,20,Female
+Happy,Euthymia,Art Therapy,Maintain a routine,45,36,Female
+Sad,Hypomania,Exercise,Take deep breaths,40,27,Female
+Calm,Euthymia,Meditation,Take deep breaths,55,38,Male
+Happy,Euthymia,Gardening,Focus on positives,40,19,Male
+Happy,Depression,Gardening,Focus on positives,5,26,Female
+Happy,Hypomania,Journaling,Practice gratitude,10,51,Female
+Calm,Hypomania,Walking,Avoid triggers,5,64,Male
+Irritable,Mania,Yoga,Reach out to a friend,35,42,Female
+Happy,Mania,Journaling,Focus on positives,5,34,Male
+Irritable,Mania,Journaling,Practice gratitude,35,53,Male
+Calm,Mania,Exercise,Maintain a routine,5,60,Male
+Happy,Depression,Yoga,Take deep breaths,35,58,Male
+Happy,Euthymia,Listening to Music,Practice gratitude,15,48,Female
+Happy,Euthymia,Listening to Music,Practice gratitude,50,61,Male
+Anxious,Depression,Art Therapy,Take deep breaths,50,41,Male
+Happy,Depression,Walking,Maintain a routine,45,22,Female
+Anxious,Euthymia,Exercise,Focus on positives,45,22,Female
+Sad,Hypomania,Gardening,Focus on positives,30,45,Male
+Irritable,Depression,Exercise,Focus on positives,45,23,Female
+Anxious,Euthymia,Gardening,Practice gratitude,30,48,Male
+Calm,Mania,Listening to Music,Maintain a routine,35,30,Male
+Anxious,Depression,Exercise,Practice gratitude,20,62,Female
+Sad,Euthymia,Yoga,Practice gratitude,20,33,Female
+Sad,Mania,Art Therapy,Practice gratitude,45,44,Female
+Anxious,Euthymia,Cooking,Take deep breaths,35,59,Female
+Sad,Euthymia,Art Therapy,Practice gratitude,40,25,Female
+Anxious,Hypomania,Meditation,Focus on positives,45,64,Female
+Calm,Depression,Yoga,Maintain a routine,45,25,Male
+Sad,Hypomania,Cooking,Avoid triggers,5,21,Male
+Irritable,Euthymia,Art Therapy,Take deep breaths,35,37,Female
+Irritable,Mania,Listening to Music,Take deep breaths,50,55,Female
+Sad,Hypomania,Cooking,Take deep breaths,15,62,Male
+Anxious,Euthymia,Listening to Music,Avoid triggers,30,39,Male
+Calm,Euthymia,Cooking,Take deep breaths,45,64,Female
+Anxious,Mania,Listening to Music,Focus on positives,55,38,Female
+Happy,Hypomania,Journaling,Maintain a routine,45,18,Female
+Calm,Mania,Journaling,Avoid triggers,30,56,Female
+Calm,Depression,Journaling,Practice gratitude,40,36,Male
+Irritable,Hypomania,Cooking,Practice gratitude,35,43,Male
+Calm,Euthymia,Walking,Maintain a routine,30,23,Male
+Happy,Hypomania,Walking,Maintain a routine,30,16,Female
+Happy,Euthymia,Cooking,Take deep breaths,55,58,Male
+Calm,Euthymia,Exercise,Practice gratitude,40,40,Male
+Sad,Mania,Gardening,Practice gratitude,40,32,Female
+Happy,Hypomania,Listening to Music,Focus on positives,40,53,Female
+Calm,Euthymia,Gardening,Maintain a routine,15,64,Female
+Anxious,Hypomania,Listening to Music,Avoid triggers,25,63,Male
+Sad,Hypomania,Art Therapy,Maintain a routine,30,33,Male
+Sad,Euthymia,Listening to Music,Maintain a routine,20,33,Female
+Happy,Hypomania,Gardening,Focus on positives,20,29,Male
+Irritable,Depression,Art Therapy,Take deep breaths,50,41,Male
+Anxious,Euthymia,Listening to Music,Reach out to a friend,40,63,Male
+Sad,Hypomania,Yoga,Take deep breaths,5,28,Male
+Sad,Depression,Yoga,Maintain a routine,10,55,Male
+Anxious,Mania,Art Therapy,Practice gratitude,25,51,Male
+Happy,Depression,Listening to Music,Practice gratitude,10,49,Female
+Irritable,Hypomania,Yoga,Focus on positives,5,29,Female
+Irritable,Hypomania,Gardening,Practice gratitude,35,41,Female
+Irritable,Depression,Listening to Music,Avoid triggers,20,64,Female
+Calm,Mania,Meditation,Focus on positives,5,57,Female
+Anxious,Depression,Exercise,Avoid triggers,55,49,Female
+Anxious,Depression,Cooking,Practice gratitude,45,45,Female
+Calm,Euthymia,Listening to Music,Avoid triggers,30,36,Male
+Sad,Hypomania,Yoga,Reach out to a friend,15,50,Male
+Anxious,Depression,Art Therapy,Take deep breaths,55,53,Male
+Anxious,Euthymia,Cooking,Practice gratitude,20,17,Female
+Irritable,Depression,Cooking,Practice gratitude,15,54,Male
+Happy,Depression,Walking,Focus on positives,25,33,Male
+Happy,Depression,Exercise,Avoid triggers,10,18,Male
+Anxious,Hypomania,Exercise,Maintain a routine,5,49,Female
+Calm,Euthymia,Art Therapy,Reach out to a friend,50,49,Male
+Anxious,Hypomania,Walking,Reach out to a friend,5,24,Male
+Irritable,Mania,Meditation,Focus on positives,10,38,Male
+Calm,Depression,Listening to Music,Reach out to a friend,35,41,Male
+Sad,Mania,Yoga,Maintain a routine,40,36,Female
+Anxious,Euthymia,Art Therapy,Reach out to a friend,5,27,Female
+Irritable,Depression,Journaling,Take deep breaths,30,38,Female
+Irritable,Euthymia,Gardening,Maintain a routine,15,39,Male
+Anxious,Depression,Yoga,Take deep breaths,25,34,Male
+Irritable,Mania,Journaling,Reach out to a friend,15,25,Male
+Anxious,Hypomania,Listening to Music,Avoid triggers,40,16,Female
+Sad,Euthymia,Cooking,Maintain a routine,45,56,Female
+Anxious,Euthymia,Journaling,Focus on positives,40,19,Male
+Irritable,Depression,Walking,Focus on positives,35,42,Female
+Happy,Euthymia,Gardening,Practice gratitude,25,32,Female
+Irritable,Euthymia,Cooking,Maintain a routine,40,55,Female
+Irritable,Hypomania,Cooking,Reach out to a friend,35,36,Female
+Sad,Hypomania,Gardening,Reach out to a friend,10,64,Female
+Anxious,Euthymia,Meditation,Practice gratitude,25,54,Female
+Anxious,Hypomania,Gardening,Take deep breaths,10,47,Female
+Calm,Depression,Art Therapy,Reach out to a friend,5,25,Male
+Sad,Euthymia,Gardening,Reach out to a friend,5,35,Female
+Calm,Depression,Art Therapy,Take deep breaths,40,24,Male
+Happy,Mania,Cooking,Focus on positives,55,41,Male
+Anxious,Mania,Listening to Music,Reach out to a friend,50,35,Female
+Anxious,Depression,Yoga,Take deep breaths,45,61,Female
+Anxious,Hypomania,Exercise,Reach out to a friend,30,44,Female
+Anxious,Hypomania,Yoga,Take deep breaths,30,39,Female
+Irritable,Euthymia,Listening to Music,Maintain a routine,15,47,Male
+Happy,Depression,Listening to Music,Focus on positives,50,38,Male
+Irritable,Depression,Listening to Music,Maintain a routine,20,45,Female
+Happy,Hypomania,Journaling,Take deep breaths,10,39,Male
+Sad,Depression,Yoga,Focus on positives,35,62,Male
+Happy,Hypomania,Art Therapy,Maintain a routine,20,44,Female
+Anxious,Hypomania,Exercise,Practice gratitude,30,22,Female
+Anxious,Euthymia,Cooking,Avoid triggers,45,38,Male
+Happy,Depression,Walking,Reach out to a friend,10,47,Male
+Irritable,Depression,Journaling,Avoid triggers,55,20,Female
+Irritable,Mania,Art Therapy,Maintain a routine,45,61,Male
+Happy,Euthymia,Cooking,Maintain a routine,45,29,Male
+Anxious,Depression,Art Therapy,Take deep breaths,10,25,Female
+Calm,Depression,Listening to Music,Reach out to a friend,25,18,Male
+Anxious,Mania,Exercise,Reach out to a friend,55,54,Male
+Calm,Depression,Yoga,Reach out to a friend,40,56,Male
+Anxious,Depression,Art Therapy,Practice gratitude,55,56,Male
+Sad,Hypomania,Yoga,Take deep breaths,50,38,Female
+Calm,Euthymia,Cooking,Take deep breaths,10,31,Female
+Sad,Euthymia,Gardening,Focus on positives,30,18,Male
+Anxious,Hypomania,Listening to Music,Focus on positives,15,30,Male
+Irritable,Hypomania,Journaling,Practice gratitude,40,35,Male
+Happy,Hypomania,Listening to Music,Avoid triggers,45,35,Male
+Happy,Depression,Walking,Reach out to a friend,40,29,Male
+Irritable,Euthymia,Gardening,Take deep breaths,25,17,Male
+Sad,Euthymia,Journaling,Focus on positives,35,22,Male
+Irritable,Depression,Art Therapy,Maintain a routine,30,59,Female
+Sad,Hypomania,Cooking,Practice gratitude,55,21,Female
+Anxious,Hypomania,Journaling,Take deep breaths,10,45,Male
+Irritable,Mania,Exercise,Avoid triggers,35,58,Female
+Calm,Depression,Yoga,Reach out to a friend,10,18,Female
+Anxious,Euthymia,Journaling,Practice gratitude,55,45,Female
+Happy,Depression,Exercise,Take deep breaths,25,64,Male
+Sad,Mania,Art Therapy,Focus on positives,10,51,Male
+Sad,Mania,Gardening,Take deep breaths,35,21,Female
+Calm,Euthymia,Listening to Music,Avoid triggers,35,62,Male
+Irritable,Hypomania,Gardening,Practice gratitude,45,23,Female
+Calm,Hypomania,Yoga,Avoid triggers,55,36,Female
+Happy,Depression,Gardening,Avoid triggers,20,57,Female
+Sad,Hypomania,Meditation,Avoid triggers,30,61,Male
+Happy,Hypomania,Cooking,Maintain a routine,10,61,Male
+Calm,Hypomania,Gardening,Reach out to a friend,20,52,Male
+Happy,Euthymia,Exercise,Practice gratitude,35,64,Female
+Sad,Hypomania,Cooking,Maintain a routine,15,35,Male
+Irritable,Mania,Meditation,Maintain a routine,5,40,Female
+Calm,Euthymia,Yoga,Practice gratitude,20,46,Female
+Anxious,Hypomania,Walking,Reach out to a friend,50,59,Male
+Sad,Mania,Yoga,Take deep breaths,30,44,Male
+Calm,Hypomania,Meditation,Reach out to a friend,5,42,Female
+Irritable,Hypomania,Meditation,Reach out to a friend,25,41,Male
+Sad,Mania,Art Therapy,Maintain a routine,5,56,Male
+Happy,Hypomania,Cooking,Reach out to a friend,20,26,Male
+Irritable,Mania,Listening to Music,Maintain a routine,35,27,Female
+Irritable,Mania,Meditation,Take deep breaths,55,32,Female
+Happy,Depression,Journaling,Practice gratitude,10,61,Female
+Sad,Hypomania,Gardening,Practice gratitude,40,59,Male
+Calm,Mania,Listening to Music,Maintain a routine,50,53,Female
+Irritable,Depression,Journaling,Take deep breaths,40,43,Male
+Sad,Euthymia,Art Therapy,Focus on positives,15,49,Male
+Calm,Mania,Listening to Music,Maintain a routine,25,56,Female
+Irritable,Hypomania,Cooking,Reach out to a friend,55,16,Male
+Calm,Mania,Cooking,Maintain a routine,5,29,Female
+Anxious,Euthymia,Listening to Music,Reach out to a friend,35,58,Male
+Happy,Mania,Exercise,Focus on positives,5,18,Female
+Calm,Hypomania,Yoga,Reach out to a friend,45,61,Female
+Calm,Euthymia,Journaling,Take deep breaths,30,24,Male
+Irritable,Mania,Meditation,Take deep breaths,55,62,Female
+Sad,Depression,Cooking,Practice gratitude,5,53,Female
+Calm,Depression,Journaling,Practice gratitude,30,19,Male
+Happy,Hypomania,Meditation,Maintain a routine,35,45,Female
+Happy,Hypomania,Cooking,Reach out to a friend,30,41,Female
+Irritable,Hypomania,Meditation,Maintain a routine,40,44,Male
+Happy,Depression,Journaling,Maintain a routine,40,20,Female
+Happy,Hypomania,Exercise,Reach out to a friend,20,56,Male
+Sad,Hypomania,Exercise,Practice gratitude,5,39,Female
+Happy,Hypomania,Cooking,Practice gratitude,25,19,Male
+Calm,Mania,Gardening,Practice gratitude,25,60,Female
+Anxious,Hypomania,Journaling,Focus on positives,55,50,Female
+Irritable,Mania,Meditation,Focus on positives,40,53,Female
+Happy,Hypomania,Walking,Reach out to a friend,55,29,Female
+Sad,Euthymia,Meditation,Reach out to a friend,20,61,Female
+Irritable,Hypomania,Cooking,Avoid triggers,50,55,Female
+Happy,Euthymia,Journaling,Maintain a routine,25,37,Female
+Anxious,Depression,Art Therapy,Focus on positives,40,47,Female
+Sad,Mania,Walking,Take deep breaths,55,60,Female
+Anxious,Depression,Meditation,Reach out to a friend,15,49,Female
+Anxious,Euthymia,Journaling,Focus on positives,15,31,Male
+Calm,Euthymia,Walking,Maintain a routine,15,39,Female
+Happy,Mania,Gardening,Avoid triggers,15,17,Female
+Happy,Hypomania,Art Therapy,Reach out to a friend,25,17,Male
+Anxious,Hypomania,Cooking,Avoid triggers,10,23,Male
+Irritable,Hypomania,Gardening,Avoid triggers,35,46,Female
+Calm,Hypomania,Walking,Take deep breaths,10,52,Male
+Irritable,Euthymia,Journaling,Focus on positives,45,32,Female
+Happy,Mania,Exercise,Practice gratitude,35,17,Female
+Calm,Hypomania,Art Therapy,Reach out to a friend,50,64,Male
+Sad,Euthymia,Gardening,Focus on positives,30,46,Male
+Happy,Mania,Gardening,Avoid triggers,55,18,Male
+Irritable,Hypomania,Journaling,Take deep breaths,40,30,Female
+Sad,Mania,Art Therapy,Maintain a routine,40,32,Female
+Irritable,Hypomania,Yoga,Practice gratitude,45,53,Male
+Calm,Depression,Meditation,Take deep breaths,10,34,Male
+Anxious,Euthymia,Listening to Music,Avoid triggers,20,31,Female
+Sad,Euthymia,Art Therapy,Take deep breaths,40,38,Female
+Happy,Euthymia,Gardening,Reach out to a friend,55,53,Female
+Calm,Mania,Meditation,Reach out to a friend,40,36,Female
+Happy,Mania,Meditation,Practice gratitude,55,25,Male
+Calm,Hypomania,Meditation,Reach out to a friend,45,55,Male
+Sad,Depression,Meditation,Practice gratitude,45,36,Male
+Sad,Euthymia,Art Therapy,Take deep breaths,40,21,Female
+Sad,Mania,Exercise,Reach out to a friend,35,57,Female
+Anxious,Hypomania,Yoga,Reach out to a friend,15,42,Female
+Calm,Mania,Gardening,Focus on positives,50,34,Female
+Calm,Hypomania,Art Therapy,Focus on positives,55,29,Male
+Sad,Hypomania,Cooking,Avoid triggers,25,21,Female
+Anxious,Depression,Walking,Take deep breaths,15,27,Female
+Irritable,Hypomania,Walking,Take deep breaths,10,25,Male
+Irritable,Hypomania,Listening to Music,Practice gratitude,40,16,Male
+Happy,Euthymia,Art Therapy,Take deep breaths,50,22,Male
+Irritable,Euthymia,Gardening,Reach out to a friend,5,56,Male
+Happy,Euthymia,Gardening,Maintain a routine,15,29,Male
+Sad,Hypomania,Yoga,Take deep breaths,10,21,Female
+Anxious,Depression,Art Therapy,Practice gratitude,55,47,Female
+Sad,Mania,Listening to Music,Take deep breaths,5,33,Female
+Anxious,Depression,Meditation,Focus on positives,30,24,Female
+Happy,Mania,Journaling,Maintain a routine,15,15,Male
+Anxious,Mania,Meditation,Take deep breaths,45,55,Male
+Anxious,Euthymia,Gardening,Focus on positives,30,25,Female
+Calm,Hypomania,Art Therapy,Reach out to a friend,15,29,Male
+Happy,Euthymia,Yoga,Reach out to a friend,40,40,Male
+Calm,Euthymia,Exercise,Maintain a routine,30,42,Male
+Happy,Hypomania,Exercise,Practice gratitude,55,22,Female
+Sad,Euthymia,Gardening,Take deep breaths,45,39,Female
+Happy,Euthymia,Cooking,Focus on positives,20,61,Female
+Sad,Mania,Cooking,Reach out to a friend,50,30,Female
+Irritable,Mania,Meditation,Focus on positives,30,25,Female
+Calm,Euthymia,Exercise,Maintain a routine,25,36,Female
+Irritable,Euthymia,Art Therapy,Practice gratitude,10,47,Female
+Sad,Euthymia,Listening to Music,Focus on positives,50,56,Male
+Irritable,Depression,Listening to Music,Avoid triggers,30,20,Male
+Happy,Hypomania,Cooking,Maintain a routine,55,60,Male
+Happy,Hypomania,Meditation,Avoid triggers,10,38,Male
+Irritable,Hypomania,Listening to Music,Avoid triggers,45,22,Male
+Irritable,Depression,Exercise,Avoid triggers,50,58,Female
+Anxious,Hypomania,Exercise,Practice gratitude,40,41,Female
+Sad,Euthymia,Art Therapy,Maintain a routine,40,49,Male
+Happy,Hypomania,Walking,Maintain a routine,45,64,Male
+Sad,Euthymia,Walking,Focus on positives,30,38,Female
+Anxious,Mania,Walking,Focus on positives,20,62,Male
+Happy,Depression,Art Therapy,Practice gratitude,20,33,Female
+Happy,Mania,Exercise,Avoid triggers,55,64,Male
+Sad,Hypomania,Art Therapy,Focus on positives,20,43,Female
+Happy,Depression,Cooking,Maintain a routine,45,22,Female
+Irritable,Hypomania,Cooking,Avoid triggers,10,25,Male
+Happy,Mania,Journaling,Focus on positives,20,21,Male
+Anxious,Mania,Walking,Practice gratitude,55,21,Female
+Anxious,Euthymia,Exercise,Maintain a routine,40,60,Female
+Sad,Mania,Yoga,Avoid triggers,45,36,Female
+Calm,Hypomania,Journaling,Maintain a routine,45,39,Female
+Anxious,Hypomania,Gardening,Reach out to a friend,55,28,Male
+Irritable,Euthymia,Gardening,Maintain a routine,35,44,Female
+Irritable,Mania,Meditation,Practice gratitude,30,32,Male
+Calm,Mania,Art Therapy,Avoid triggers,40,63,Female
+Happy,Euthymia,Art Therapy,Avoid triggers,30,48,Male
+Happy,Mania,Journaling,Focus on positives,5,19,Female
+Calm,Euthymia,Walking,Take deep breaths,50,24,Male
+Calm,Depression,Art Therapy,Take deep breaths,50,49,Male
+Irritable,Mania,Listening to Music,Reach out to a friend,40,17,Female
+Anxious,Euthymia,Listening to Music,Focus on positives,40,28,Male
+Sad,Hypomania,Cooking,Avoid triggers,10,31,Female
+Anxious,Depression,Meditation,Focus on positives,20,51,Female
+Happy,Depression,Listening to Music,Avoid triggers,20,33,Male
+Calm,Depression,Gardening,Focus on positives,20,37,Male
+Irritable,Hypomania,Walking,Focus on positives,20,57,Male
+Calm,Hypomania,Exercise,Reach out to a friend,55,26,Male
+Calm,Euthymia,Exercise,Maintain a routine,30,44,Male
+Anxious,Mania,Listening to Music,Practice gratitude,50,26,Male
+Sad,Euthymia,Yoga,Reach out to a friend,50,50,Female
+Happy,Hypomania,Yoga,Practice gratitude,40,21,Male
+Sad,Depression,Cooking,Maintain a routine,45,56,Male
+Irritable,Mania,Art Therapy,Focus on positives,45,15,Female
+Happy,Mania,Journaling,Take deep breaths,15,55,Female
+Calm,Mania,Listening to Music,Reach out to a friend,20,22,Female
+Anxious,Hypomania,Cooking,Take deep breaths,20,26,Female
+Sad,Mania,Art Therapy,Avoid triggers,10,26,Male
+Calm,Mania,Listening to Music,Reach out to a friend,40,38,Female
+Happy,Euthymia,Yoga,Take deep breaths,5,62,Female
+Anxious,Depression,Art Therapy,Practice gratitude,50,16,Female
+Anxious,Mania,Walking,Avoid triggers,15,31,Male
+Sad,Euthymia,Journaling,Take deep breaths,10,41,Female
+Anxious,Depression,Yoga,Reach out to a friend,40,30,Male
+Anxious,Mania,Cooking,Maintain a routine,10,15,Female
+Happy,Hypomania,Yoga,Practice gratitude,10,15,Male
+Happy,Hypomania,Walking,Practice gratitude,20,33,Male
+Anxious,Mania,Yoga,Avoid triggers,25,56,Male
+Anxious,Depression,Journaling,Reach out to a friend,25,25,Male
+Anxious,Mania,Walking,Take deep breaths,40,64,Male
