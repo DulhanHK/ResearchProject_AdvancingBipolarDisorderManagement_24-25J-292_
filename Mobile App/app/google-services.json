@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346941108307",
+    "project_id": "bipolarapp-f9311",
+    "storage_bucket": "bipolarapp-f9311.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346941108307:android:04b34bd468e0b84c2196a6",
+        "android_client_info": {
+          "package_name": "com.example.bipolar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2yfYfk1dzuHjyOQRdwOs3OvDOZZs6XIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
