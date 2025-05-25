@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#F8F9FA">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <!-- Info button -->
+        <ImageButton
+            android:id="@+id/infoButton"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_gravity="end"
+            android:layout_marginTop="8dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="Show inputs"
+            android:src="@android:drawable/ic_dialog_info"
+            app:tint="#0066CC" />
+
+        <!-- Activities Label -->
+        <TextView
+            android:id="@+id/activitiesLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Recommended Activities"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="#0066CC"
+            android:gravity="center"
+            android:layout_marginTop="16dp"
+            android:fontFamily="sans-serif-medium"
+            android:visibility="gone" />
+
+        <!-- Inputs container (initially hidden) -->
+        <LinearLayout
+            android:id="@+id/inputContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="gone"
+            android:layout_marginTop="12dp">
+
+            <!-- Mood Display -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Current Mood:"
+                    android:textColor="#777777"
+                    android:textSize="14sp"/>
+
+                <Spinner
+                    android:id="@+id/moodSpinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:background="@drawable/locked_spinner_background"
+                    android:textColor="#000000"
+                    android:textSize="16sp"
+                    android:enabled="false"/>
+            </LinearLayout>
+
+            <!-- Gender Display -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Gender:"
+                    android:textColor="#777777"
+                    android:textSize="14sp"/>
+
+                <Spinner
+                    android:id="@+id/genderSpinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:background="@drawable/locked_spinner_background"
+                    android:textColor="#000000"
+                    android:textSize="16sp"
+                    android:enabled="false"/>
+            </LinearLayout>
+
+            <!-- Age and Unlock Icon Row -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginTop="12dp">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Age:"
+                        android:textColor="#777777"
+                        android:textSize="14sp" />
+
+                    <EditText
+                        android:id="@+id/ageInput"
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:padding="12dp"
+                        android:background="@drawable/locked_edittext_background"
+                        android:textColor="#000000"
+                        android:textSize="16sp"
+                        android:hint="Loading..."
+                        android:inputType="none"
+                        android:focusable="false"
+                        android:clickable="false"
+                        android:cursorVisible="false"/>
+                </LinearLayout>
+
+                <ImageButton
+                    android:id="@+id/unlockStageIcon"
+                    android:layout_width="36dp"
+                    android:layout_height="36dp"
+                    android:layout_marginStart="8dp"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:contentDescription="Unlock Bipolar Stage"
+                    android:src="@android:drawable/ic_lock_lock"
+                    app:tint="#0066CC" />
+            </LinearLayout>
+
+            <!-- Bipolar Stage Container -->
+            <LinearLayout
+                android:id="@+id/stageContainer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="12dp"
+                android:visibility="gone">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Bipolar Stage:"
+                    android:textColor="#777777"
+                    android:textSize="14sp"/>
+
+                <Spinner
+                    android:id="@+id/stageSpinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:background="@drawable/locked_spinner_background"
+                    android:textColor="#000000"
+                    android:textSize="16sp"
+                    android:enabled="false"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <!-- Recommendations RecyclerView -->
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recommendationsRecyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:visibility="gone" />
+
+        <!-- ProgressBar -->
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_gravity="center_horizontal"
+            android:visibility="gone" />
+    </LinearLayout>
+</ScrollView>
