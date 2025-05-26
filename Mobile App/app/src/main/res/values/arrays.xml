@@ -1,0 +1,27 @@
+<resources>
+    <string-array name="mood_options">
+        <item>Select mood</item>
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Angry</item>
+        <item>Neutral</item>
+        <item>Fear</item>
+        <item>Disgust</item>
+        <item>Surprise</item>
+    </string-array>
+
+    <string-array name="stage_options">
+        <item>Select stage</item>
+        <item>Euthymia</item>
+        <item>Hypomania</item>
+        <item>Depression</item>
+        <item>Mixed Episodes</item>
+        <item>Mania</item>
+    </string-array>
+
+    <string-array name="gender_options">
+        <item>Select gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
