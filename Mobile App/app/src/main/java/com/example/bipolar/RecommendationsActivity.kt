@@ -47,6 +47,9 @@ class RecommendationsActivity : AppCompatActivity() {
     private var inputsVisible = false
     private var stageUnlocked = false
 
+    // Store the real stage fetched from Firestore
+    private var realStage: String = "Euthymia"
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_recommendations)
@@ -58,30 +61,28 @@ class RecommendationsActivity : AppCompatActivity() {
         recommendationsRecyclerView.layoutManager = LinearLayoutManager(this)
         setupSpinners()
 
-        // Hide inputs container and stage container initially
+        // Initially hide inputs and stage container
         inputContainer.visibility = View.GONE
         stageContainer.visibility = View.GONE
 
-        // Hide Get Recommendations button completely
-        // (so no manual refresh button)
-        // No need to set click listener for it
+        // Always lock the stage spinner UI (disabled)
+        lockSpinner(stageSpinner)
 
         fetchUserDataAndLatestStage()
         fetchLatestMoodFromTextAudioVideo()
 
         setupUnlockStageIcon()
 
-        // Info button toggles inputs and fetches recommendations immediately
         infoButton.setOnClickListener {
             inputsVisible = !inputsVisible
             if (inputsVisible) {
                 inputContainer.visibility = View.VISIBLE
-                tryAutoFetchRecommendations()  // Fetch immediately every time inputs show
+                tryAutoFetchRecommendations()
             } else {
                 inputContainer.visibility = View.GONE
                 activitiesLabel.visibility = View.GONE
                 recommendationsRecyclerView.visibility = View.GONE
-                recommendationsRecyclerView.adapter = null  // Clear adapter on hide
+                recommendationsRecyclerView.adapter = null
             }
         }
     }
@@ -154,11 +155,13 @@ class RecommendationsActivity : AppCompatActivity() {
             .get()
             .addOnSuccessListener { result ->
                 result.firstOrNull()?.getString("emotion")?.let { emotion ->
-                    val index = stageOptions.indexOf(emotion) + 1
+                    realStage = emotion
+                    // Set spinner to realStage but keep disabled (locked)
+                    val index = stageOptions.indexOf(realStage) + 1
                     if (index > 0) {
                         stageSpinner.setSelection(index)
-                        lockSpinner(stageSpinner)
                     }
+                    lockSpinner(stageSpinner)
                 }
             }
             .addOnFailureListener {
@@ -223,7 +226,8 @@ class RecommendationsActivity : AppCompatActivity() {
 
     private fun tryAutoFetchRecommendations() {
         val mood = moodSpinner.selectedItem.toString()
-        val stage = if(stageUnlocked) stageSpinner.selectedItem.toString() else "Euthymia" // default stage if locked
+        // Always send realStage (from firestore), ignore stageUnlocked or spinner state
+        val stage = realStage
         val gender = genderSpinner.selectedItem.toString()
         val age = ageInput.text.toString().trim().toIntOrNull()
 
@@ -306,10 +310,11 @@ class RecommendationsActivity : AppCompatActivity() {
                 if (enteredPin == secretPin) {
                     Toast.makeText(this, "Access granted", Toast.LENGTH_SHORT).show()
                     stageContainer.visibility = View.VISIBLE
-                    stageSpinner.isEnabled = true
                     unlockStageIcon.visibility = View.GONE
                     stageUnlocked = true
-                    tryAutoFetchRecommendations() // Fetch with unlocked stage now
+                    // Spinner remains disabled, just visually shows the stage now
+                    lockSpinner(stageSpinner)
+                    tryAutoFetchRecommendations()
                 } else {
                     Toast.makeText(this, "Incorrect PIN", Toast.LENGTH_SHORT).show()
                 }
@@ -319,3 +324,4 @@ class RecommendationsActivity : AppCompatActivity() {
             .show()
     }
 }
+
