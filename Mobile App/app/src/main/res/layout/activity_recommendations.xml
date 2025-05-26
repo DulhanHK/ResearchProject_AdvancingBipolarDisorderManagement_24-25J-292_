@@ -66,7 +66,6 @@
                     android:id="@+id/moodSpinner"
                     android:layout_width="match_parent"
                     android:layout_height="48dp"
-                    android:background="@drawable/locked_spinner_background"
                     android:textColor="#000000"
                     android:textSize="16sp"
                     android:enabled="false"/>
@@ -90,7 +89,6 @@
                     android:id="@+id/genderSpinner"
                     android:layout_width="match_parent"
                     android:layout_height="48dp"
-                    android:background="@drawable/locked_spinner_background"
                     android:textColor="#000000"
                     android:textSize="16sp"
                     android:enabled="false"/>
@@ -163,7 +161,6 @@
                     android:id="@+id/stageSpinner"
                     android:layout_width="match_parent"
                     android:layout_height="48dp"
-                    android:background="@drawable/locked_spinner_background"
                     android:textColor="#000000"
                     android:textSize="16sp"
                     android:enabled="false"/>
