@@ -1,0 +1,10 @@
+flask
+firebase-admin
+joblib
+numpy
+pandas
+pydub
+librosa
+whisper
+openai-whisper
+gunicorn
