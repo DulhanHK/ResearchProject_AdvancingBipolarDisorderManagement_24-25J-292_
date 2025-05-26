@@ -10,4 +10,4 @@ venv/
 serviceaccountkey*
 
 # Large model files
-weights/
+# weights/
